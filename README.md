@@ -1,16 +1,12 @@
-# beautifull_login
+<center><h1><b>Login Design</b></h1></center>
 
-A new Flutter project.
 
-## Getting Started
+This little project was proposed in [Flutter & Dart en Español] group and done with educational intentions
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Result.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screen_shoot.png"
+ alt="Resultado final taller de flutter basico"
+ height="500" 
+/>
